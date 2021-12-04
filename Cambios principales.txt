@@ -1,0 +1,7 @@
+1. Rework del sistema de conversaciones.
+2. Reglas resumidas y cheat sheets.
+3. Personajes ya hechos.
+
+Cambios menores:
+ - Tratar de dejar fuera todo lo demás (podemos tomar unas cerves luego!).
+ - Poner el foco en el personaje y la historia.
